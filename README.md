@@ -1,0 +1,1 @@
+# smartjacket for wizfi360
